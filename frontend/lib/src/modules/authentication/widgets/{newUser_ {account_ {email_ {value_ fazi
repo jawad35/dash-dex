@@ -1,0 +1,9 @@
+{newUser: {account: {email: {value: fazi@gmail.com}, password: {value: 123456789}, picture: {content: [string], size: 0, type: jpeg}, telephone: {countryCode: GB, phoneNumber: +447933449370, type: MOBILE}, username: {value: test1}}, address: {administrativeAreaId: , countryId: GB, firstLine: test line 1, geoLocation: {abbreviation: {lat: 0, lon: 0}, latitude: {decimalDegrees: 0, degrees: 0, direction: N, minutes: 0, seconds: 0}, longitude: {decimalDegrees: 0, degrees: 0, direction: N, minutes: 0, seconds: 0}}, postCode: yahb, secondLine: test line 2, townId: }, biometricsEnabled: false, birthDate: 2023-07-24T00:00:00.000, firstName: test1, gender: Male, lastName: test2, notificationSecuritySettings: {encodedPublicKey: string, registrationToken: string}, notificationSettings: {budgetLimitNotificationEnabled: true, emailNotificationEnabled: true, loyaltyRewardNotificationEnabled: true, merchantOutreachEnabled: true, trendingOfferNotificationEnabled: true}, termsAgreement: {"agreementDateTime": "2023-07-24T10:54:50.351Z",
+      "termsId": "-"
+    },
+    "type": "CONSUMER"
+  },
+  "otp": {
+    "value": "435232"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607588616701",
+    "project_id": "dash-76129",
+    "storage_bucket": "dash-76129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607588616701:android:3208b0bd96af43e45ff194",
+        "android_client_info": {
+          "package_name": "com.example.dash_money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607588616701-grjosdctt4gab00li2nol52ui8l0d4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzl9yjWRxl9MsYgO7OpWYjsRenpYhqC6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607588616701-grjosdctt4gab00li2nol52ui8l0d4ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
